@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Bipan Tiwari
 
-<!--
-**Bipan7/Bipan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Researcher | Android Developer | Embedded Systems Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🔭 Currently working on neonatal Total Serum Bilirubin (TSB) prediction using deep learning and medical imaging.
+- 🌱 Exploring sound localization, advanced AI models like Vision Transformers, and mobile deployment.
+- 💡 Passionate about building AI-powered healthcare applications and embedded systems.
+- 👯 Open to collaborate on AI, embedded systems, and Android projects.
+- 💬 Ask me about Python, TensorFlow, Firebase, or ML model deployment.
+- 📫 Reach me at: **[your-email@example.com]**
+
+---
+
+### Skills
+- Programming: Python, Java, C++
+- Frameworks: TensorFlow, PyTorch, Keras
+- Mobile: Android Development (Java, Kotlin)
+- Embedded Systems: Raspberry Pi, Microcontrollers
+- Tools: Git, Firebase, OpenCV
+
+---
+
+### GitHub Stats
+![Bipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipant&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile! 🚀
