@@ -5,12 +5,12 @@
 ---
 
 ### About Me
-- 🔭 Currently working on neonatal Total Serum Bilirubin (TSB) prediction using deep learning and medical imaging.
-- 🌱 Exploring sound localization, advanced AI models like Vision Transformers, and mobile deployment.
+- 🔭 Currently working on deep learning and medical imaging.
+- 🌱 Exploring advanced AI models like Vision Transformers, and mobile deployment.
 - 💡 Passionate about building AI-powered healthcare applications and embedded systems.
 - 👯 Open to collaborate on AI, embedded systems, and Android projects.
 - 💬 Ask me about Python, TensorFlow, Firebase, or ML model deployment.
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **[bipantiwari777@gmail.com]**
 
 ---
 
