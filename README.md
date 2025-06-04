@@ -23,9 +23,4 @@
 
 ---
 
-### GitHub Stats
-![Bipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bipant&show_icons=true&theme=radical)
-
----
-
 Thanks for visiting my profile! 🚀
